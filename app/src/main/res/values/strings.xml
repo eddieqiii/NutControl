@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NutControl</string>
+    <string name="dc_text">Disconnected</string>
+    <string name="seekBar_begin_val">0</string>
+</resources>
