@@ -8,8 +8,8 @@ Right now, this app connects to a bluetooth serial device (previously paired) an
 ```
 # Why?
 All of the other Bluetooth serial control apps available on the Play Store seemed shifty, and I didn't want that kind of software on my phone. Additionally, my use case was very specific, and I decided making an app wouldn't be too hard.
-# Jeez, this is terrible code.
-Yeah, I learned Java and Android app development as I went along. At least I can boast that 0% of this code was copied from Stack Overflow, and I understand at least 90% of it. Forgive the spaghetti
+# This code is terrible
+I learned Java and Android app development as I went along. At least I can boast that 0% of this code was copied from Stack Overflow - forgive the spaghetti
 # Will you update this??
 Maybe
 # How do I run it?
