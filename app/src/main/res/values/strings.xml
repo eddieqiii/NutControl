@@ -2,4 +2,7 @@
     <string name="app_name">NutControl</string>
     <string name="dc_text">Disconnected</string>
     <string name="seekBar_begin_val">0</string>
+    <string name="connecting">Connecting to %1$s…</string>
+    <string name="connected">Connected to %1$s</string>
+    <string name="disconnect">Disconnect</string>
 </resources>
