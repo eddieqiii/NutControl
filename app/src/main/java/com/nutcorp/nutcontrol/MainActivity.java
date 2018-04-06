@@ -103,6 +103,14 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if (isConnected) {
+            disconnect();
+        }
+    }
+
     private void connectToDevice(String macToConnect) {
         BluetoothDevice device = btAdapter.getRemoteDevice(macToConnect);
         BluetoothSocket temp = null;
