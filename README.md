@@ -7,10 +7,10 @@ Right now, this app connects to a bluetooth serial device (previously paired) an
 (int);
 ```
 # Why?
-All of the other Bluetooth serial control apps available on the Play Store seemed shifty, and I didn't want that kind of software on my phone. Additionally, my use case was very specific, and I decided making an app wouldn't be too hard.
+All of the other Bluetooth serial control apps available on the Play Store seemed shifty, and were designed for extremely specific use cases. (so is this)
 # This code is terrible
-I learned Java and Android app development as I went along. At least I can boast that 0% of this code was copied from Stack Overflow - forgive the spaghetti
+yeah soz
 # Will you update this??
 Maybe
 # How do I run it?
-This repo contains the entire Android Studio project - just open it up and run it (min Android 6.0)
+This repo contains the entire Android Studio project - open the folder from Android Studio.
